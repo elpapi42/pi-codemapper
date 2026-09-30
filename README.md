@@ -1,6 +1,6 @@
 # pi-codemapper
 
-`pi-codemapper` is a Pi extension that exposes the CodeMapper CLI (`cm`) as five small agent-facing tools. The goal is to help AI agents reduce the search space before they read files, edit code, or run tests.
+`pi-codemapper` is a Pi extension that exposes the [CodeMapper CLI (`cm`)](https://github.com/p1rallels/codemapper) as five small agent-facing tools. The goal is to help AI agents reduce the search space before they read files, edit code, or run tests.
 
 It intentionally wraps workflow intents, not every `cm` command:
 
